@@ -944,7 +944,7 @@ footer .social-links {
 
 .selectLabel {
   display: block;
-  font-weight: bold;
+  font-size: 1.5rem;
   margin-bottom: 0.4rem;
   color: var(--brand-green);
 }
@@ -962,9 +962,6 @@ footer .social-links {
   border-radius: 0.3rem;
   padding-left: 1rem;
 }
-
-border: 0.06rem solid hsla(210, 9%, 31%, 0.3);
-#6f6f6f;
 
 }
 .selectNative {
